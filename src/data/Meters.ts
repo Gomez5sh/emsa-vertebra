@@ -2961,67 +2961,6 @@ export const items = [
       },
     ],
   },
-
-  {
-    dummy: true,
-    _id: "PRESENTADO",
-    punto: "PRESENTADO",
-    status: "Normal",
-    falla: false,
-    last_connection: "Nunca",
-    project: "Detección de tensión - Media tensión",
-    makes: "Vertebra Soluciones",
-    name: "Equipo de telemedición para detección/ausencia de tensión - Lineas de tension",
-    contrac_number: "4500006497",
-    installed_circuit: "PRESENTADO",
-    detector_brand: "Vertebra",
-    detector_serial: "VT-0182",
-    receiver_brand: "Vertebra",
-    receiver_serial: "VT-041046",
-    equipment_status: "Operativo",
-    sim_number: "SIM card Vertebra (temporal)",
-    instalation_date: "07/03/2020",
-    instalation_location: "PRESENTADO - Lat: N4°17'57\" Long: W 73°24'48\"",
-    transformer_number: null,
-    tension_levelOne: 34.5,
-    de_energization: "NO",
-    tension_levelTwo: "Operativo",
-    energization_equipment: "SI",
-    communication_receiver_detector: "SI",
-    signal_transmission_server: "SI",
-    voltage_detection: "SI",
-    Repector_server_communication: "SI",
-    Alarm_generation_server: "SI",
-    observationsOne: [
-      {
-        coment:
-          "El equipo ha sido instalado para pruebas de alimentación y comunicación en sitio.",
-      },
-      {
-        coment:
-          "La instalación ha sido realizada por el personal de Vertebra Soluciones con la autorización de la EMSA.",
-      },
-      {
-        coment:
-          "Para la entrada en operación completa del equipo no se requiere desmontar la estructura, se programará la intervención al módulo receptor para su reconfiguración según las condiciones de operación del proyecto: ID del servidor, frecuencia de muestreo, calibración del nivel de tensión.",
-      },
-    ],
-    maintenance: [
-      {
-        date: "12/05/2022",
-        reason: "Mantenimeinto preventivo",
-        description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
-        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
-      },
-    ],
-    observationsTwo: [
-      {
-        coment: " ",
-      },
-    ],
-  },
-
   {
     dummy: true,
     _id: "PTO LLERAS",
