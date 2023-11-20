@@ -2272,7 +2272,7 @@ export const items = [
     ],
   },
 
-  {
+  /*{
     dummy: false,
     _id: "JARDIN",
     punto: "JARDIN DE PEÑAS",
@@ -2338,7 +2338,7 @@ export const items = [
         coment: " ",
       },
     ],
-  },
+  },*/
 
   {
     dummy: true,
