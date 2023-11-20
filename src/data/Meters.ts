@@ -1152,7 +1152,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "CUBARRAL",
     punto: "CUBARRAL RURAL",
     status: "Desconectado",
@@ -1476,7 +1476,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "DER. MESETAS",
     punto: "DER. MESETAS - S/E MURIBA 34.5 KV",
     status: "Desconectado",
@@ -1965,7 +1965,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "GRANADA",
     punto: "GRANADA - SAN MARTIN  34.5 KV",
     status: "Desconectado",
@@ -2273,10 +2273,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "JARDIN",
     punto: "JARDIN DE PEÑAS",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -2402,7 +2402,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "LA JULIA",
     punto: "LA JULIA",
     status: "Desconectado",
@@ -3031,7 +3031,7 @@ export const items = [
     ],
   },
   {
-    dummy: true,
+    dummy: false,
     _id: "PTO LLERAS",
     punto: "PTO LLERAS - PTO RICO 34.5 KV",
     status: "Desconectado",
@@ -3160,10 +3160,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "PUERTO GAITAN",
     punto: "PUERTO GAITAN - MANACACIAS 34.5 KV",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -3296,7 +3296,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "PUERTO LLERAS",
     punto: "PUERTO LLERAS",
     status: "Desconectado",
@@ -3356,7 +3356,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "PUERTO TRIUNFO",
     punto: "PUERTO TRIUNFO",
     status: "Desconectado",
@@ -3725,7 +3725,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA - MESETAS 34.5 KV",
     status: "Normal",
@@ -3793,7 +3793,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA - VISTAHERMOSA 34.5 KV",
     status: "Desconectado",
@@ -3929,7 +3929,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN RURAL",
     punto: "SAN JUAN RURAL (MESETAS)",
     status: "Desconectado",
@@ -4057,7 +4057,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "VEREDA",
     punto: "VEREDA EL DELIRIO",
     status: "Desconectado",
