@@ -2844,7 +2844,7 @@ export const items = [
       },
     ],
   },
-  {
+  /*{
     dummy: true,
     _id: "ORIENTE",
     punto: "ORIENTE",
@@ -2909,7 +2909,7 @@ export const items = [
         coment: " ",
       },
     ],
-  },
+  },*/
 
   {
     dummy: true,
