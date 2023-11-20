@@ -1348,7 +1348,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "CUMARAL",
     punto: "CUMARAL - JAPON - 34.5 KV",
     status: "Desconectado",
