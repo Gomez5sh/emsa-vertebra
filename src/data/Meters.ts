@@ -729,10 +729,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "CASETABLA",
     punto: "CASETABLA - EL RUBI 34.5 KV",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -1220,7 +1220,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "CUBARRAL",
     punto: "CUBARRAL URBANO",
     status: "Desconectado",
@@ -2650,7 +2650,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "MESETAS - URIBE",
     punto: "MESETAS - URIBE 34.5 KV",
     status: "Desconectado",
@@ -2718,10 +2718,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "NEBLINA",
     punto: "NEBLINA",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -3228,10 +3228,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "PUERTO LIMON",
     punto: "PUERTO LIMON - PUERTO LLERAS 34.5 KV",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -3728,7 +3728,7 @@ export const items = [
     dummy: false,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA - MESETAS 34.5 KV",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -3861,7 +3861,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA 1",
     status: "Desconectado",
