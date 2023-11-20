@@ -7806,7 +7806,7 @@ export const items2 = [
       },
     ],
   },
-  {
+  /*{
     dummy: true,
     _id: "VI0103",
     punto: "TUNELES",
@@ -7863,7 +7863,7 @@ export const items2 = [
         coment: " ",
       },
     ],
-  },
+  },*/
   {
     dummy: true,
     _id: "UR0101",
