@@ -234,6 +234,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "24/10/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -355,6 +362,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "26/10/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -411,6 +425,13 @@ export const items = [
     maintenance: [
       {
         date: "09/06/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "24/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -605,6 +626,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "30/10/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -661,6 +689,13 @@ export const items = [
     maintenance: [
       {
         date: "27/06/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "30/10/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -1036,6 +1071,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "25/10/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -1348,6 +1390,13 @@ export const items = [
     maintenance: [
       {
         date: "07/07/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "02/11/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -1910,6 +1959,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "27/10/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -1965,6 +2021,13 @@ export const items = [
     maintenance: [
       {
         date: "03/06/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "13/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -2158,6 +2221,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "03/11/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -2218,6 +2288,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "13/09/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -2273,6 +2350,13 @@ export const items = [
     maintenance: [
       {
         date: "23/06/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "27/10/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -2529,6 +2613,13 @@ export const items = [
     maintenance: [
       {
         date: "17/07/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "07/11/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -2852,7 +2943,7 @@ export const items = [
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
       {
-        date: "09/12/2023",
+        date: "02/11/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041049 sufrio daños debido a descarga atmosferica.",
@@ -3044,6 +3135,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "14/09/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -3167,6 +3265,13 @@ export const items = [
     maintenance: [
       {
         date: "19/06/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "26/10/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -3503,6 +3608,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "23/10/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -3739,6 +3851,13 @@ export const items = [
     maintenance: [
       {
         date: "13/06/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "25/10/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -4076,6 +4195,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "07/11/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -4199,6 +4325,13 @@ export const items = [
     maintenance: [
       {
         date: "11/07/2022",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "03/11/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
