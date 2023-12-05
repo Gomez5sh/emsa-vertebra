@@ -4076,7 +4076,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "SAN JUAN RURAL",
     punto: "SAN JUAN RURAL (MESETAS)",
     status: "Desconectado",
@@ -4211,7 +4211,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "VEREDA",
     punto: "VEREDA EL DELIRIO",
     status: "Desconectado",
