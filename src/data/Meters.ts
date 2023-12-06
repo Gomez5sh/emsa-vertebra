@@ -2098,7 +2098,7 @@ export const items = [
         date: "09/04/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041018 se encontraba dañado se procede a reparar",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041018 fue vandalizado",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -2555,7 +2555,7 @@ export const items = [
         date: "09/08/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041041 sufrio daños debido a descarga atmosferica.",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041041 fue vandalizado.",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -2878,7 +2878,7 @@ export const items = [
         date: "12/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, el equipo de comunicaciones fue vandalizado",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -3206,7 +3206,7 @@ export const items = [
         date: "07/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041011 sufrio daños debido a descarga atmosferica.",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041011 fue vandalizado.",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -3342,7 +3342,7 @@ export const items = [
         date: "04/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041016 se encontraba dañado se procede a reparar",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041016 fue vandalizado",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -3410,7 +3410,7 @@ export const items = [
         date: "07/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-031039 sufrio daños debido a descarga atmosferica.",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-031039 fue vandalizado.",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -3544,7 +3544,7 @@ export const items = [
         date: "04/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicacionesVT-041017 se encontraba dañado se procede a reparar",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicacionesVT-041017 fue vandalizado",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -4076,7 +4076,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN RURAL",
     punto: "SAN JUAN RURAL (MESETAS)",
     status: "Desconectado",
@@ -4211,7 +4211,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "VEREDA",
     punto: "VEREDA EL DELIRIO",
     status: "Desconectado",
