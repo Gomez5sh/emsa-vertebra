@@ -813,7 +813,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "CASETABLA",
     punto: "CASETABLA - EL RUBI 34.5 KV",
     status: "Desconectado",
@@ -1481,7 +1481,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "CUMARAL",
     punto: "CUMARAL - JAPON - 34.5 KV",
     status: "Desconectado",
@@ -1609,7 +1609,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "DER. MESETAS",
     punto: "DER. MESETAS - S/E MURIBA 34.5 KV",
     status: "Desconectado",
@@ -2895,7 +2895,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "MESETAS - URIBE",
     punto: "MESETAS - URIBE 34.5 KV",
     status: "Desconectado",
@@ -3297,7 +3297,7 @@ export const items = [
     ],
   },
   {
-    dummy: false,
+    dummy: true,
     _id: "PTO LLERAS",
     punto: "PTO LLERAS - PTO RICO 34.5 KV",
     status: "Desconectado",
@@ -3501,7 +3501,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "PUERTO LIMON",
     punto: "PUERTO LIMON - PUERTO LLERAS 34.5 KV",
     status: "Desconectado",
@@ -4108,7 +4108,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA - VISTAHERMOSA 34.5 KV",
     status: "Desconectado",
@@ -4176,7 +4176,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA 1",
     status: "Desconectado",
@@ -4244,7 +4244,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "SAN JUAN RURAL",
     punto: "SAN JUAN RURAL (MESETAS)",
     status: "Desconectado",
