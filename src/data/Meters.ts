@@ -3297,7 +3297,7 @@ export const items = [
     ],
   },
   {
-    dummy: true,
+    dummy: false,
     _id: "PTO LLERAS",
     punto: "PTO LLERAS - PTO RICO 34.5 KV",
     status: "Desconectado",
@@ -4108,7 +4108,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA - VISTAHERMOSA 34.5 KV",
     status: "Desconectado",
@@ -4176,7 +4176,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN DE ARAMA",
     punto: "SAN JUAN DE ARAMA 1",
     status: "Desconectado",
@@ -4244,7 +4244,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SAN JUAN RURAL",
     punto: "SAN JUAN RURAL (MESETAS)",
     status: "Desconectado",
