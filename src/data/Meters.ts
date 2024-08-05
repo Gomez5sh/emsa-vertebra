@@ -1301,10 +1301,10 @@ export const items = [
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
       {
-        date: "19/06/2024",
+        date: "9/07/2024",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS VT-041027 del dispositivo y modulo de tension del equipo ",
+          "Verificacion de señal GPRS VT-041027 del dispositivo y modulo de tension del equipo  ",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
@@ -1369,7 +1369,7 @@ export const items = [
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
        {
-        date: "09/05/2023",
+        date: "5/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El equipo de telemedida fue vandalizado.",
@@ -1774,7 +1774,7 @@ export const items = [
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
       {
-        date: "15/07/2024",
+        date: "10/07/2024",
         reason: "Mantenimeinto preventivo",
         description:
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
@@ -2870,6 +2870,13 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "2/04/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
@@ -3148,7 +3155,7 @@ export const items = [
       },
     ],
   },
-  /*{
+  {
     dummy: true,
     _id: "ORIENTE",
     punto: "ORIENTE",
@@ -3207,13 +3214,20 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "09/08/2023",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041042 sufrio daños debido a descarga atmosferica, se realiza el cambio del modulo",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
     ],
     observationsTwo: [
       {
         coment: " ",
       },
     ],
-  },*/
+  },
 
   {
     dummy: true,
@@ -3412,7 +3426,7 @@ export const items = [
         date: "07/09/2023",
         reason: "Mantenimeinto preventivo",
         description:
-          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041011 fue vandalizado.",
+          "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041011 y el modulo VT-0146 fueron vandalizados.",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
     ],
