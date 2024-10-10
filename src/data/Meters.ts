@@ -1761,6 +1761,15 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "6/08/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS VT-041008 del dispositivo y modulo de tension VT-0143 del equipo ",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+
+      
     ],
     observationsTwo: [
       {
@@ -1843,6 +1852,15 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041043 sufrio daños debido a descarga atmosferica.",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "25/09/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Modulo de tension VT-0178 y modulo de comunicaciones VT-041043 Descompuesto por condiciones atmosfericas.",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+
+      
     ],
     observationsTwo: [
       {
