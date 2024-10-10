@@ -368,10 +368,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "BARZAL",
     punto: "BARZAL - CAÑOS NEGROS 34.5 KV",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -1020,10 +1020,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "CASTILLA",
     punto: "CASTILLA 2 - ARENALES",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -1738,7 +1738,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "DER. MESETAS",
     punto: "DER. MESETAS - S/E MURIBA 34.5 KV",
     status: "Desconectado",
@@ -2170,10 +2170,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "FUNDADORES",
     punto: "FUNDADORES - 34.5",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -2660,7 +2660,7 @@ export const items = [
     ],
   },
 
-  /*{
+  {
     dummy: false,
     _id: "JARDIN",
     punto: "JARDIN DE PEÑAS",
@@ -2733,7 +2733,7 @@ export const items = [
         coment: " ",
       },
     ],
-  },*/
+  },
 
   {
     dummy: true,
@@ -2945,10 +2945,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "LEJANIAS",
     punto: "LEJANIAS",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -3094,7 +3094,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "MESETAS - URIBE",
     punto: "MESETAS - URIBE 34.5 KV",
     status: "Desconectado",
@@ -3318,7 +3318,7 @@ export const items = [
   },
   
   {
-    dummy: true,
+    dummy: false,
     _id: "ORIENTE",
     punto: "ORIENTE",
     status: "Desconectado",
@@ -3607,10 +3607,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "PTO LOPEZ",
     punto: "PTO LOPEZ - CASETABLA - 34.5",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -3952,10 +3952,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "REFORMA",
     punto: "REFORMA - ESMERALDA - 34.5",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
@@ -4094,10 +4094,10 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "SALINAS",
     punto: "SALINAS",
-    status: "Normal",
+    status: "Desconectado",
     falla: false,
     last_connection: "Nunca",
     project: "Detección de tensión - Media tensión",
