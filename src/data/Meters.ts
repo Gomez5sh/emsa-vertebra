@@ -3292,6 +3292,14 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041048 sufrio daños debido a descarga atmosferica.",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "16/09/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Modulo de tension VT-0184 y modulo de comunicaciones VT-041048 Descompuesto por condiciones atmosfericas.",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      
     ],
     observationsTwo: [
       {
@@ -3515,6 +3523,14 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo, El modulo de comunicaciones VT-041042 sufrio daños debido a descarga atmosferica, se realiza el cambio del modulo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "10/09/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Modulo de tension VT-0177 y modulo de comunicaciones VT-041042 vandalizados hurto. ",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      
     ],
     observationsTwo: [
       {
@@ -3656,6 +3672,14 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "20/08/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS VT-041057 del dispositivo y modulo de tension VT-0214 del equipo. ",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      
     ],
     observationsTwo: [
       {
@@ -3798,6 +3822,21 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo Cambio antena de comunicaciones y pines de conexión ",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "27/08/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS VT-041059 del dispositivo y modulo de tension VT-041059 del equipo. ",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "23/09/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Modulo de tension VT-0216 y modulo de comunicaciones VT-041059 Descompuesto por condiciones atmosfericas. ",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      
     ],
     observationsTwo: [
       {
@@ -4143,6 +4182,21 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo Se procede a realizar cambio de antena",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "21/08/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion de señal GPRS VT-041068 del dispositivo y modulo de tension VT-0226 del equipo. ",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      {
+        date: "17/09/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Modulo de tension VT-0226 y modulo de comunicaciones VT-041068 vandalizados hurto",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      
     ],
     observationsTwo: [
       {
@@ -4210,6 +4264,14 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "5/08/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Verificacion del modulo GPRS VT-041063 del dispositivo y modulo de tension VT-041063 del equipo. ",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      
     ],
     observationsTwo: [
       {
@@ -4284,6 +4346,14 @@ export const items = [
           "Verificacion de señal GPRS del dispositivo y modulo de tension del equipo",
         managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
       },
+      {
+        date: "30/09/2024",
+        reason: "Mantenimeinto preventivo",
+        description:
+          "Modulo de tension VT-0175 y modulo de comunicaciones VT-041040 vandalizados hurto",
+        managers: [{ manager: "Omar Alzate" }, { manager: "Jhosswa Restrepo" }],
+      },
+      
     ],
     observationsTwo: [
       {
