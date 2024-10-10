@@ -2945,7 +2945,7 @@ export const items = [
   },
 
   {
-    dummy: false,
+    dummy: true,
     _id: "LEJANIAS",
     punto: "LEJANIAS",
     status: "Desconectado",
