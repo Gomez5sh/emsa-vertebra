@@ -1020,7 +1020,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "CASTILLA",
     punto: "CASTILLA 2 - ARENALES",
     status: "Desconectado",
@@ -2945,7 +2945,7 @@ export const items = [
   },
 
   {
-    dummy: true,
+    dummy: false,
     _id: "LEJANIAS",
     punto: "LEJANIAS",
     status: "Desconectado",
